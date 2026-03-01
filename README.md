@@ -1,5 +1,4 @@
-
-#Amrita QuantumLeap Bootcamp 2026 — Hackathon
+**Amrita QuantumLeap Bootcamp 2026 — Hackathon**
 
 Grover's algorithm applied to combinatorial cancer therapy selection. Given n candidate drug targets, we search the 2^n possible combinations for ones that maximize therapeutic benefit while staying under a toxicity threshold.
 Setup
@@ -51,4 +50,5 @@ matplotlib	Plots
 numpy	Numerics
 pylatexenc	Circuit diagram rendering
 References
+
 
